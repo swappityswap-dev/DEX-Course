@@ -14,7 +14,7 @@ Build and release Swappityswap
 
 ## TODO List
 - [ ] Customize and brand interface (antron3000, dilipomi, jaygoyanar, AleRapchan)
-- [ ] Write Swappityswap Contracts (vgotcheva, antron3000)
+- [ ] Write Swappityswap Contracts (vgotcheva, antron3000, zjoy, streamerd)
   - [ ] Factory
   - [ ] Router 
 - [ ] Deploy on multichain (antron3000)
